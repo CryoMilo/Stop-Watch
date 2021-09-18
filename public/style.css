@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(44, 50, 70);
+  text-align: center;
+}
+
+.clock {
+  color: rgb(230, 183, 54);
+  font-size: 10rem;
+  padding: 0;
+  margin: 0;
+}
+
+.controls button {
+  background-color: rgb(32, 83, 107);
+  padding: 8px;
+  margin: 10px;
+  border-radius: 5px;
+}
